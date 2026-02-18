@@ -49,7 +49,7 @@
 			},
 			"d1_databases": [
 				{
-                    "binding": "DBr",
+                    "binding": "DB",
                     "database_name": "prod-domain-watcher",
                     "database_id": "d8367d2e-a02a-49c9-a8bb-c7bb9c853334",
                     "remote": true// Replace with your actual production database ID. View README.md for details.
